@@ -63,7 +63,7 @@ public class VarastoTest {
     }
     @Test
     public void ottaminenPalauttaaOikeanMaaran() {
-        varasto.lisaaVarastoon(8);
+        varasto.lisaaVarastoon(6);
 
         double saatuMaara = varasto.otaVarastosta(2);
 
