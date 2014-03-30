@@ -64,7 +64,7 @@
     <artifactId>maven-checkstyle-plugin</artifactId>
     <version>2.10</version>
     <configuration>
-      <configLocation>my_checks2.xml</configLocation>
+      <configLocation>my_checks.xml</configLocation>
     </configuration>
   </plugin>
         </plugins>
